@@ -1,2 +1,2 @@
-My first readme
-the is trhe updated readme file done in github directly.
+# My first readme
+this is the updated readme file done in github directly.
